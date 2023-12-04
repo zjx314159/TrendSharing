@@ -9,6 +9,8 @@ import edu.ecnu.hwu.pojos.Worker;
 
 import java.util.*;
 
+
+
 public class TBTARP extends BaseAlgorithm {
     public TrendTree trendTree;
 
